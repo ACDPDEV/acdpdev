@@ -6,8 +6,7 @@
 ## Sobre mí:
 Me llamo Ahilton Díaz, tengo 15 años y soy un desarrollador backend y desktop especializado en Python. Durante el último año, he aprendido diversos frameworks y herramientas que me permiten crear aplicaciones eficientes y bien diseñadas.
 
-### Tecnologías y Herramientas:
-- **Lenguaje de programación**: Python
+**Lenguaje de programación**: Python
 
 #### Frameworks:
 - **FastAPI**: Desarrollo de APIs rápidas y eficientes.
@@ -18,5 +17,6 @@ Me llamo Ahilton Díaz, tengo 15 años y soy un desarrollador backend y desktop 
 - **Figma**: Diseño y prototipado de interfaces.
 
 ## Contacto:
-- **E-mail**: acdpdev@gmail.com
-- **Discord**: acdp10
+**E-mail**: acdpdev@gmail.com
+
+**Discord**: acdp10
