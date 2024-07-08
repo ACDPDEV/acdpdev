@@ -16,3 +16,7 @@ Me llamo Ahilton Díaz, tengo 15 años y soy un desarrollador backend y desktop 
 #### Entornos de desarrollo:
 - **Visual Studio Code**: Mi editor de código principal.
 - **Figma**: Diseño y prototipado de interfaces.
+
+## Contacto:
+**E-mail**: acdpdev@gmail.com
+**Discord**: acdp10
