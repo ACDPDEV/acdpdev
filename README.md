@@ -18,5 +18,5 @@ Me llamo Ahilton Díaz, tengo 15 años y soy un desarrollador backend y desktop 
 - **Figma**: Diseño y prototipado de interfaces.
 
 ## Contacto:
-**E-mail**: acdpdev@gmail.com
-**Discord**: acdp10
+- **E-mail**: acdpdev@gmail.com
+- **Discord**: acdp10
