@@ -4,7 +4,7 @@
 ![Icons](https://github.com/ACDPDEV/acdpdev/assets/174844847/a8088ed1-7f8a-4e3e-b5f4-dd6d7b7dd54a)
 
 ## Sobre mí:
-Me llamo Ahilton Díaz, tengo 15 años y soy un desarrollador backend y desktop especializado en Python. Durante el último año, he aprendido diversos frameworks y herramientas que me permiten crear aplicaciones eficientes y bien diseñadas.
+Me llamo Ahilton Díaz, tengo 15 años, soy un desarrollador backend y desktop especializado en Python. Durante el último año, he aprendido diversos frameworks y herramientas que me permiten crear aplicaciones eficientes y bien diseñadas.
 
 **Lenguaje de programación**: Python
 
