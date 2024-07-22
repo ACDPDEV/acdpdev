@@ -7,20 +7,19 @@
 ## Sobre mí:
 Me llamo Ahilton Díaz, tengo 15 años, soy un desarrollador backend y desktop especializado en Python. Durante el último año, he aprendido diversos frameworks y herramientas que me permiten crear aplicaciones eficientes y bien diseñadas.
 
-**Lenguaje de programación**: ![Python](https://github.com/user-attachments/assets/3d2e5e93-f018-4e94-a27e-cb9ea9ed9f49) Python
+**Lenguaje de programación**: ![Vector Python](https://github.com/user-attachments/assets/3fbd09a4-c114-4e40-8e23-2ff487ccfc88) Python
 
 #### Frameworks:
-- ![FastAPI](https://github.com/user-attachments/assets/c83a2fb1-7d43-461b-9848-d806893cb3bc) **FastAPI**: Desarrollo de APIs rápidas y eficientes.
-- ![DearPyGUI](https://github.com/user-attachments/assets/eb05f113-b13f-4c06-918b-295bcbcf0276) **DearPyGUI**: Creación de interfaces gráficas de usuario (GUI).
-- ![Flet](https://github.com/user-attachments/assets/39cee500-234b-47b2-aef8-3d05e8e05c50) **Flet**: Creación de interfaces gráficas multiplataforma.
-- ![ReactPy](https://github.com/user-attachments/assets/3c2a86c2-eb54-476a-a6b6-9f88a528f50d) **ReactPy**: Creación de interfaces web
+- ![FastAPI](https://github.com/user-attachments/assets/bf11e485-e45f-4827-8706-1e0d2bb603b5) **FastAPI**: Desarrollo de APIs rápidas y eficientes.
+- ![DearPyGUI](https://github.com/user-attachments/assets/9bc0c933-039f-45a5-910e-7aba606a868b) **DearPyGUI**: Creación de interfaces gráficas de usuario (GUI).
+- ![Flet](https://github.com/user-attachments/assets/c6f61857-6222-4fdf-b3c0-b34ca5b059d7) **Flet**: Creación de interfaces gráficas multiplataforma.
+- ![ReactPy](https://github.com/user-attachments/assets/81ae72ec-24d4-41a8-80a8-0c13fa4b1775) **ReactPy**: Creación de interfaces web
 
 #### Entornos de desarrollo:
-- ![Visual Studio Code (1)](https://github.com/user-attachments/assets/a86a7495-6b5b-4195-b53e-624fd463a920) **Visual Studio Code**: Mi editor de código principal.
-- ![Figma](https://github.com/user-attachments/assets/39814414-0a08-474c-be1b-6472c8c32e70) **Figma**: Diseño y prototipado de interfaces (UI, UX).
+- ![Visual Studio Code](https://github.com/user-attachments/assets/d500a816-77b0-4e0b-b725-dd519bf5bf98) **Visual Studio Code**: Mi editor de código principal.
+- ![Figma](https://github.com/user-attachments/assets/88a01e4b-b695-46ab-aa68-b768a4d1f0dd) **Figma**: Diseño y prototipado de interfaces (UI, UX).
 
 ## Contacto:
 **E-mail**: acdpdev@gmail.com
 
 **Discord**: acdp10
-
