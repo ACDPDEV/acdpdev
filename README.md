@@ -6,7 +6,7 @@
 Me llamo Ahilton Díaz, soy un desarrollador frontend(Reflex), backend y desktop especializado en Python. Durante el último año, he aprendido diversos frameworks de python y herramientas que me permiten crear aplicaciones como FastAPI, Reflex (con HTML, CSS), Figma, Flet, etc.
 
 ## Skills:
-![Icons](https://github.com/user-attachments/assets/53a449e4-6f8e-4709-b5ba-5f25ca523e29)
+![Icons](https://github.com/user-attachments/assets/f33f9240-5266-45a9-a48e-2926231d9262)
 
 
 ## Contacto:
