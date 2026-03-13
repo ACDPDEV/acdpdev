@@ -55,7 +55,7 @@
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
 | [move](https://github.com/ACDPDEV/move) | Plataforma educativa interactiva para simulaciones de física y matemáticas | Next.js |
-| [nuclear-simulator](https://github.com/ACDPDEV/nuclear-simulator) | Simulador de reacciones nucleares | Vite/React |
+| [nuclear-simulator](https://github.com/ACDPDEV/nuclear-simulator) | Simulador de reacciones nucleares | Astro + React |
 | [doomsday-landing](https://github.com/ACDPDEV/doomsday-landing) | Landing minimalista con cuenta regresiva | Astro + Server Islands |
 
 ---
