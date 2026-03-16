@@ -4,7 +4,7 @@
 
 ## 🇬🇧 English
 
-**Fullstack developer** focused on modern web and systems programming. I build web apps with **React** and **Astro** on the frontend, and explore low-level performance with **Rust** on the backend. Always learning, always shipping.
+**Frontend developer** focused on modern web and systems programming. I build web apps with **React** and **Astro** on the frontend, and explore low-level performance with **Rust**. Always learning, always shipping.
 
 - 🌐 Building interactive and performant web experiences
 - 🦀 Learning systems programming with Rust
@@ -33,7 +33,7 @@
 
 ## 🇪🇸 Español
 
-**Desarrollador fullstack** enfocado en web moderna y programación de sistemas. Construyo aplicaciones web con **React** y **Astro** en el frontend, y exploro rendimiento a bajo nivel con **Rust**. Siempre aprendiendo, siempre construyendo.
+**Desarrollador frontend** enfocado en web moderna y programación de sistemas. Construyo aplicaciones web con **React** y **Astro** en el frontend, y exploro rendimiento a bajo nivel con **Rust**. Siempre aprendiendo, siempre construyendo.
 
 - 🌐 Creando experiencias web interactivas y eficientes
 - 🦀 Aprendiendo programación de sistemas con Rust
